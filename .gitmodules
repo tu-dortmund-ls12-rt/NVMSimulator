@@ -1,0 +1,9 @@
+[submodule "gem5"]
+	path = gem5
+	url = git@github.com:tu-dortmund-ls12-rt/NVMgem5mod.git
+[submodule "nvmain"]
+	path = nvmain
+	url = git@github.com:tu-dortmund-ls12-rt/NVMnvmainmod.git
+[submodule "nvm-rt"]
+	path = nvm-rt
+	url = git@github.com:tu-dortmund-ls12-rt/NVMruntime.git
