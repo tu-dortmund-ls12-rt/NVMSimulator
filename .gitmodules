@@ -7,3 +7,6 @@
 [submodule "nvm-rt"]
 	path = nvm-rt
 	url = git@github.com:tu-dortmund-ls12-rt/NVMruntime.git
+[submodule "analysis"]
+	path = analysis
+	url = git@github.com:tu-dortmund-ls12-rt/NVMTraceanalysis.git
